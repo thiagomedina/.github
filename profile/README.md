@@ -8,20 +8,22 @@ On focus on web development, I seek a deep knowledge of the Javascript / Typescr
 Experience in:
 - Javascript
 - Typescript
-- HTML
-- CSS
 - Styled-components
 - SASS
 - React
 - Redux
 - Redux-saga
 - NodeJs
+- NestJs
 - PHP
 - SQL
 - MongoDB
 - Design Patterns
 - TDD
-- Refactoring and code smells
+- Refactoring
+- Microservices 
+- Micro Frontends
+- Blockchain
 
 Open to learning new
 technologies.
