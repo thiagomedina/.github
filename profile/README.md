@@ -4,7 +4,6 @@
 
 
 I believe that it is possible to learn anything.<br/>
-On focus on web development, I seek a deep knowledge of the Javascript / Typescript ecosystem.
 Experience in:
 - Javascript
 - Typescript
